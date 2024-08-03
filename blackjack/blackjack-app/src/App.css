@@ -1,0 +1,16 @@
+/* blackjack-app/src/App.css */
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.cards img {
+  width: 100px;
+  height: auto;
+}
